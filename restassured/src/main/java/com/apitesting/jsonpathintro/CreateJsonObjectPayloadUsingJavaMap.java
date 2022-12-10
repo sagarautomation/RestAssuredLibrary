@@ -7,6 +7,8 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 
 public class CreateJsonObjectPayloadUsingJavaMap {
+	
+	//comment added
 
 	public static void main(String[] args) 
 	{
